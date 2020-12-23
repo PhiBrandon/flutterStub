@@ -1,5 +1,3 @@
-# ai_radio
-
 A new Flutter project.
 
 ## Getting Started
